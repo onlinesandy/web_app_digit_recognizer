@@ -48,6 +48,9 @@ Install dependencies using `pip install -r requirements.txt`.
 - The recognized digit along with confidence level is sent back to the client.
 - The client displays the recognized digit and confidence level.
 
+![Digit Recognizer](https://github.com/onlinesandy/web_app_digit_recognizer/blob/master/templates/images/Local_Digit_Reconizer.png)
+
+
 ## Model
 
 The deep learning model used for digit recognition is included in the project as `model.onnx`. It is loaded using OpenCV's `cv2.dnn.readNetFromONNX()` function.
