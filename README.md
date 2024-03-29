@@ -22,7 +22,7 @@ Install dependencies using `pip install -r requirements.txt`.
 1. Clone this repository:
 
     ```
-    git clone <repository_url>
+    git clone https://github.com/onlinesandy/web_app_digit_recognizer.git
     ```
 
 2. Navigate to the project directory:
